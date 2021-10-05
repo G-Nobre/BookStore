@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="action_settings">Settings</string>
+    <string name="large_text"> </string>
+    <string name="welcome">Welcome to BookStore.\nTap the button to search!</string>
+    <string name="buy_url">Buy URL:</string>
+    <string name="book_title">Title: %1$s</string>
+    <string name="book_authors">Authors: %1$s</string>
+    <string name="book_description">Description: %1$s</string>
+    <string name="book_isbn">ISBN: %1$s</string>
+    <string name="book_price">Price: %1$s %2$s</string>
+    <string name="na">N/A</string>
+
+</resources>
